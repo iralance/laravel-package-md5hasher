@@ -1,4 +1,6 @@
-用法
+[![Build Status](https://travis-ci.org/iralance/laravel-package-md5hasher.svg?branch=master)](https://travis-ci.org/iralance/laravel-package-md5hasher)
+
+###用法
 ```
 composer require iralance/hasher
 ```
