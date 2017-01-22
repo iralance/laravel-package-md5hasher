@@ -23,7 +23,6 @@ class MD5HasherTest extends TestCase
     public function testMD5HasherMake()
     {
         $password = md5('123456');
-        
         $password1 = $this->hasher->make('123456');
         $this->assertEquals($password,$password1);
     }
