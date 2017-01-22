@@ -1,0 +1,18 @@
+{
+    "name": "iralance/hasher",
+    "description": "md5 make and check",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iralance",
+            "email": "iralance@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iralance\\Hasher\\": "src/"
+        }
+    },
+}
